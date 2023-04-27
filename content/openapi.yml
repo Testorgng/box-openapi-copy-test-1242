@@ -9,7 +9,7 @@ servers:
     description: Box Platform API server
 
 paths:
-  "$ref": "./paths.yml"
+  "$ref": "./paths.yml" 
 
 components:
   securitySchemes:
