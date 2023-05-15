@@ -1,7 +1,7 @@
 ---
 #### REQUESTS & VARIANTS ####
 
-PostOAuth2Token:
+PostOAuth2Token: 
   "$ref": "./requests/post_oauth2_token.yml"
 
 PostOAuth2Token--RefreshAccessToken:
